@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nageshever.github.io
+title: My Tech Blog
+tagline: My Tech Learning Log
+description: Learning must be a habit. I am setting up this blog to write my learning's so that others can learn and correct. This may contains articles or issue solutions or simply links to other video blogs or blogs. Wish be good luck.
+paginate: 5

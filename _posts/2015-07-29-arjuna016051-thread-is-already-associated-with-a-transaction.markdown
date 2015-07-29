@@ -12,5 +12,3 @@ if (txStatus == Status.STATUS_MARKED_ROLLBACK || txStatus == Status.STATUS_ROLLE
                 logger.warn("Rolling back the transaction");
                 transaction.rollback();
 }
-
-[Visit my Python Blog] (https://tamingpython.wordpress.com/)
